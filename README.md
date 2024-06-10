@@ -1,0 +1,2 @@
+- 👋 Olá eu sou a Brenda do 2º Ano A
+- Estou aprendendo com o Alura
